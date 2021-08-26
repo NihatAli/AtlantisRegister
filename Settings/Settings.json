@@ -1,0 +1,45 @@
+{
+    "BotSettings": {
+        "token": "ODgwMzYwMjA3MzY3MTYzOTA0.YSdJVQ.etHKlQMMJdd1mHq8SFUh3XjdmT0",
+        "owner": "580428560410345492",
+        "prefix": ".",
+        "botStatus": "register bot",
+        "botVoiceChannelID": "880366115015000064"
+    },
+    "Roles": {
+        "BoyRole1": "846029296804167696",
+        "BoyRole2": "846029296804167696",
+        "GirlRole1": "KIZ ROL 1",
+        "GirlRole2": "KIZ ROL 2",
+        "Unregister": "846029296804167694",
+        "Registerer": "846029296858038312",
+        "TagRole": "846029296832086036",
+        "Suspicious": "880364637995040778",
+        "Jail": "846029296804167693"
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "Ψ    ๖ۣۜATLANTİS #KURULUŞ",
+            "ServerID": "846029296804167690",
+            "Tag": "Ψ ๖ۣۜ",
+            "UnTag": "846029296804167696"
+    },
+        "Channels": {
+            "RegisterChat": "846029297135124512",
+            "TagLog": "846029297893638164",
+            "Rules": "846029297135124518",
+            "GeneralChat": "847548566524002344"
+        },
+        "Welcome": {
+            "WelcomeChat": "846029297475256345",
+            "WelcomeName": "• İsim | Yaş"
+        }
+}
